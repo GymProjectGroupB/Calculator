@@ -8,10 +8,10 @@ namespace Calculator
 {
     public class Addition
     {
-            public int Add()
+            public int Add(int a, int b)
             {
-                return 1 + 1;
+                return a + b;
             }
-        
+
     }
 }
