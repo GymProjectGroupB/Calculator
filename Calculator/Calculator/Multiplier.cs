@@ -5,4 +5,5 @@ public class Multiplier
     {
         return a * b;
     }
+
 }
